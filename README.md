@@ -1,4 +1,4 @@
-# Snake-game
+# Snake game
 ![screen](https://github.com/user-attachments/assets/a7e8e6da-29f2-4f3d-8c41-7feb2fcccb96)
 The classic Snake game on Java.
 
